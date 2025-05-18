@@ -1,3 +1,8 @@
+# Read Me
+<div>
+This repository is a fork of the original repository of [TheHive](https://github.com/TheHive-Project/TheHive) and is being used for my dissertation project.
+</div>
+
 <div>
   <p align="center">
     <img src="images/thehive-logo.png"width="600"/>  
